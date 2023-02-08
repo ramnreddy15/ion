@@ -9,7 +9,7 @@ certifi==2021.5.30
 channels==3.0.3
 channels-redis==3.2.0
 contextlib2==0.6.0.post1
-cryptography==3.4.7
+cryptography==39.0.1
 decorator==5.0.9
 Django==2.2.22
 django-cacheops==6.0
